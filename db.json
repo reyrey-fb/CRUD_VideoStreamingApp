@@ -1,0 +1,15 @@
+{
+  "streams": [
+    {
+      "title": "Steam No. 1",
+      "description": "Logged-Out External Stream Example",
+      "id": 1
+    },
+    {
+      "title": "Stream No. 2",
+      "description": "Logged-In User Stream Example",
+      "userId": "102948237165729949842",
+      "id": 2
+    }
+  ]
+}
